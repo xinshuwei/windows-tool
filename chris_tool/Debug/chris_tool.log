@@ -1,0 +1,6 @@
+﻿  chris_toolDlg.cpp
+c:\users\li\documents\visual studio 2015\projects\chris_tool\chris_tool\chris_tooldlg.cpp(186): warning C4129: “W”: 不可识别的字符转义序列
+c:\users\li\documents\visual studio 2015\projects\chris_tool\chris_tool\chris_tooldlg.cpp(186): warning C4129: “s”: 不可识别的字符转义序列
+c:\users\li\documents\visual studio 2015\projects\chris_tool\chris_tool\chris_tooldlg.cpp(186): warning C4129: “S”: 不可识别的字符转义序列
+  chris_tool.vcxproj -> c:\users\li\Documents\Visual Studio 2015\Projects\chris_tool\Debug\chris_tool.exe
+  chris_tool.vcxproj -> c:\users\li\Documents\Visual Studio 2015\Projects\chris_tool\Debug\chris_tool.pdb (Full PDB)
